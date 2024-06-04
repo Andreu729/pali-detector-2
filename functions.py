@@ -18,7 +18,6 @@ def odd_deleter(a):
         return a
 
 
-
 def splitter(stri):
     p = len(stri)/2
     l1 = []
