@@ -6,7 +6,7 @@ while True:
     print("Presiona [1] y enter para salir")
     xd = input("Escribe una palabra: ")
     if xd == 1:
-        pass
+        break
     elif pal_detect(xd):
         print(str(xd) + " es un palíndromo!")
     else:
