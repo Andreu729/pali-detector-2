@@ -10,4 +10,4 @@ while True:
     elif pal_detect(xd):
         print(str(xd) + " es un palíndromo!")
     else:
-        print("muerete pedazo de basura")
+        print("no es un palíndromo")
